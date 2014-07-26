@@ -42,7 +42,10 @@ xgboost_path: Set to the XGBoost installed path
 
 3) Copy the files of the competition and unzip them to the same folder as the source files i.e. to the current_working_directory above
 
-4) Run source ('main.R', print.eval=T, echo=T) to run the files
+4) The parts of speech features are painful to compute. So you may pick them up from here: https://www.dropbox.com/sh/fu9sx3jrdvtirlg/AAC_SrEeThn4-SxJBK2IsSzia
+
+
+5) Run source ('main.R', print.eval=T, echo=T) to run the files
 
 
 
