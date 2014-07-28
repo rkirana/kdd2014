@@ -1,4 +1,13 @@
-This software is released under: http://opensource.org/licenses/GPL-3.0
+
+    <KDD2014>  Copyright (C) 2014  Kiran R
+
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+
+    This software is released under: http://opensource.org/licenses/GPL-3.0
+
+
 
     <Winning submission of KDD 2014 which is to predict exciting projects at donorschoose.org>
     Copyright (C) 2014  Kiran R
@@ -19,11 +28,5 @@ This software is released under: http://opensource.org/licenses/GPL-3.0
     You can contact me on email at rkirana@gmail.com and my mailing address is:
     Kiran R, "Hosamane", No 295, 3rd Block, 6th Cross, HMT Layout, Vidyaranyapura PO, Bangalore - 560097
 
-If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:
 
-    <KDD2014>  Copyright (C) 2014  Kiran R
-
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
-    under certain conditions; type `show c' for details.
 
